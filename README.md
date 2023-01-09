@@ -1,4 +1,4 @@
 # TareaEvaluativa03
 
-Este repositorio contiene todo lo creado en el módulo RPMI
+Este repositorio contiene todos los módulos de información multimedia creados.
  
